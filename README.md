@@ -13,9 +13,6 @@
 )
 
 
-
-
-
 **My Interests and Hobbies**
 
 🤔 I’m looking for help with any project Ideas to enhance my lack luster portfolio
@@ -26,7 +23,7 @@
 
 <!--
 **GeorgZs/GeorgZs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+----------------------------> **Shields.io** <--------------------------------------
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
