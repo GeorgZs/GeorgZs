@@ -21,6 +21,8 @@
 
 🤷‍♂️ Into all types of music, especially Rap and Metal
 
+_my father: [Lance](https://github.com/Lancear)_
+
 <!--
 **GeorgZs/GeorgZs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  **Shields.io** 
