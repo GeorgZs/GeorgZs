@@ -5,7 +5,7 @@
 
 ![Java: Intermediate](https://img.shields.io/badge/JAVA-Intermediate-lightgreen
 )
-![Python: Familiar](https://img.shields.io/badge/Python-Familiar-yellow
+![Python: Intermediate](https://img.shields.io/badge/Python-Intermediate-lightgreen
 )
 ![C: Familiar](https://img.shields.io/badge/C-Familiar-yellow
 )
