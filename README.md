@@ -1,5 +1,8 @@
 ### 👋 Hello from your resident Military Man!! 
 
+**Who am I?**
+
+I really enjoy learning new things and becoming better at my craft. Studied IB in St. Clare's College, Oxford and am currenly a Student and the University of Gothenburg studying Software Engineering and Management BSc. 
 
 **Programming Experience**
 
@@ -10,13 +13,12 @@
 
 **My Interests and Hobbies**
 
-🤔 I’m looking for help with any project Ideas to enhance my lack luster portfolio
+🤔 I’m looking for help with any project Ideas to enhance my portfolio<br>
+🐱‍👤 Love Gaming, Working out, and Espressos<br>
+🤷‍♂️ Into all types of music, especially Rap and Metal<br>
 
-🐱‍👤 Love Gaming
 
-🤷‍♂️ Into all types of music, especially Rap and Metal
-
-_my father: [Lance](https://github.com/Lancear)_
+*_consider checking out my father: [Lance](https://github.com/Lancear)_*<br>
 
 <!--
 **GeorgZs/GeorgZs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
