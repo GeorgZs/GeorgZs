@@ -2,7 +2,8 @@
 
 **Who am I?**
 
-I really enjoy learning new things and becoming better at my craft. Studied IB in St. Clare's College, Oxford and am currenly a Student and the University of Gothenburg studying Software Engineering and Management BSc. 
+I really enjoy learning new things and becoming better at my craft. Studied IB in St. Clare's College, Oxford and am currenly a Student and the University of Gothenburg studying Software Engineering and Management BSc. <br> <br>
+Currently employed at Boomerank as an Intern Software Developer🤯💥
 
 **Programming Experience**
 
