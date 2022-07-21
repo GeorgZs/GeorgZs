@@ -10,6 +10,7 @@ Currently employed at Boomerank as an Intern Software Developer🤯💥
 ![Java (intermediate)](https://img.shields.io/static/v1?label=Java&logo=Java&logoColor=eeeeee&message=intermediate&color=green&style=for-the-badge)
 ![Python (intermediate)](https://img.shields.io/static/v1?label=Python&logo=Python&logoColor=eeeeee&message=intermediate&color=green&style=for-the-badge)
 ![JavaScript (familiar)](https://img.shields.io/static/v1?label=JavaScript&logo=JavaScript&logoColor=eeeeee&message=familiar&color=yellowgreen&style=for-the-badge)
+![HTML/CSS (familiar)](https://img.shields.io/static/v1?label=HTML%2fCSS&logo=HTML5&logoColor=eeeeee&message=familiar&color=yellowgreen&style=for-the-badge)
 ![C (familiar)](https://img.shields.io/static/v1?label=C&logo=C&logoColor=eeeeee&message=familiar&color=yellowgreen&style=for-the-badge)
 
 **My Interests and Hobbies**
