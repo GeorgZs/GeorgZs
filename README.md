@@ -2,7 +2,7 @@
 
 **Who am I?**
 
-I really enjoy learning new things and becoming better at my craft. Studied IB in St. Clare's College, Oxford and am currenly a Student and the University of Gothenburg studying Software Engineering and Management BSc. Previously employed at Boomerank as an Intern Full-Stack Developer🤯💥 
+I really enjoy learning new things and becoming better at my craft. Studied IB in St. Clare's College, Oxford and am currenly a Student and the University of Gothenburg studying Software Engineering and Management BSc. Previously employed at Boomerank as an Intern Full-Stack Developer🤯💥 <br><br>
 **Programming Experience**
 
 ![Java (intermediate)](https://img.shields.io/static/v1?label=Java&logo=Java&logoColor=eeeeee&message=intermediate&color=green&style=for-the-badge)
