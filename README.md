@@ -2,9 +2,7 @@
 
 **Who am I?**
 
-I really enjoy learning new things and becoming better at my craft. Studied IB in St. Clare's College, Oxford and am currenly a Student and the University of Gothenburg studying Software Engineering and Management BSc. <br> <br>
-Currently employed at Boomerank as an Intern Software Developer🤯💥
-
+I really enjoy learning new things and becoming better at my craft. Studied IB in St. Clare's College, Oxford and am currenly a Student and the University of Gothenburg studying Software Engineering and Management BSc. Previously employed at Boomerank as an Intern Full-Stack Developer🤯💥 
 **Programming Experience**
 
 ![Java (intermediate)](https://img.shields.io/static/v1?label=Java&logo=Java&logoColor=eeeeee&message=intermediate&color=green&style=for-the-badge)
@@ -19,7 +17,7 @@ Currently employed at Boomerank as an Intern Software Developer🤯💥
 🐱‍👤 Love Gaming, Working out, and Espressos<br>
 🤷‍♂️ Into all types of music, especially Rap and Metal<br>
 
-
+[Click for LinkedIn](https://www.linkedin.com/in/georg-zsolnai-b662a6241/) <br>
 *_consider checking out my father: [Lance](https://github.com/Lancear)_*<br>
 
 <!--
