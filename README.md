@@ -6,18 +6,26 @@ I really enjoy learning new things and becoming better at my craft. Studied IB i
 **Programming Experience**
 
 ![Java (intermediate)](https://img.shields.io/static/v1?label=Java&logo=Java&logoColor=eeeeee&message=intermediate&color=green&style=for-the-badge)
-![Python (intermediate)](https://img.shields.io/static/v1?label=Python&logo=Python&logoColor=eeeeee&message=intermediate&color=green&style=for-the-badge)
-![JavaScript (familiar)](https://img.shields.io/static/v1?label=JavaScript&logo=JavaScript&logoColor=eeeeee&message=familiar&color=yellowgreen&style=for-the-badge)
-![HTML/CSS (familiar)](https://img.shields.io/static/v1?label=HTML%2fCSS&logo=HTML5&logoColor=eeeeee&message=familiar&color=yellowgreen&style=for-the-badge)
+![JavaScript (intermediate)](https://img.shields.io/static/v1?label=JavaScript&logo=JavaScript&logoColor=eeeeee&message=intermediate&color=green&style=for-the-badge)
+![HTML/CSS (intermediate)](https://img.shields.io/static/v1?label=HTML%2fCSS&logo=HTML5&logoColor=eeeeee&message=intermediate&color=green&style=for-the-badge)
+![Python (familiar)](https://img.shields.io/static/v1?label=Python&logo=Python&logoColor=eeeeee&message=familiar&color=yellowgreen&style=for-the-badge)
 ![C (familiar)](https://img.shields.io/static/v1?label=C&logo=C&logoColor=eeeeee&message=familiar&color=yellowgreen&style=for-the-badge)
+
+**Programming Experience**
+Some notable group projects I had the pleasure of working on:
+- [Web Development Universal Booking Website](https://github.com/GeorgZs/WebDev2022)
+- [Driving License Learner's App with Functioning Emulator](https://github.com/GeorgZs/DIT113-CarCrashCourse)
+- [Banking Server with Server](https://github.com/GeorgZs/BankingMiniProject2021)
+
+<br>
 
 **My Interests and Hobbies**
 
 🤔 I’m looking for help with any project Ideas to enhance my portfolio<br>
 🐱‍👤 Love Gaming, Working out, and Espressos<br>
-🤷‍♂️ Into all types of music, especially Rap and Metal<br>
+🤷‍♂️ Into all types of music, especially Rap and Thrash Metal<br>
 
-[Click for LinkedIn](https://www.linkedin.com/in/georg-zsolnai-b662a6241/) <br>
+[LinkedIn](https://www.linkedin.com/in/georg-zsolnai-b662a6241/) <br>
 *_consider checking out my father: [Lance](https://github.com/Lancear)_*<br>
 
 <!--
