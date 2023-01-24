@@ -2,7 +2,7 @@
 
 **Who am I?**
 
-Currenly a Student and the University of Gothenburg studying Software Engineering and Management BSc. Previously employed at Boomerank as an Intern Full-Stack Developer🤯💥 <br><br>
+Currenly a Student and the University of Gothenburg studying Software Engineering and Management BSc. Previously employed at Shopstory.ai as an Intern Full-Stack Developer🤯💥 <br><br>
 **Programming Experience**
 
 ![Java (intermediate)](https://img.shields.io/static/v1?label=Java&logo=Java&logoColor=eeeeee&message=intermediate&color=green&style=for-the-badge)
