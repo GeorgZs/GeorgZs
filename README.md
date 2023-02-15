@@ -15,7 +15,7 @@ Currenly a Student and the University of Gothenburg studying Software Engineerin
 Some notable group projects I had the pleasure of working on:
 - [Web Development Universal Booking Website](https://github.com/GeorgZs/WebDev2022)
 - [Driving License Learner's App with Functioning Emulator](https://github.com/GeorgZs/DIT113-CarCrashCourse)
-- [Banking Server with Server](https://github.com/GeorgZs/BankingMiniProject2021)
+- [Dentist Website utilizing Distributed Components](https://github.com/Distributed-Systems2022)
 
 <br>
 
