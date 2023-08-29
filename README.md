@@ -1,4 +1,4 @@
-### 👋 Hello from your resident Military Man!! 
+### 👋 Greetings fellow Programmers! 
 
 **Who am I?**
 
