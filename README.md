@@ -10,6 +10,8 @@ Currenly a Student and the University of Gothenburg studying Software Engineerin
 ![HTML/CSS (intermediate)](https://img.shields.io/static/v1?label=HTML%2fCSS&logo=HTML5&logoColor=eeeeee&message=intermediate&color=green&style=for-the-badge)
 ![Python (familiar)](https://img.shields.io/static/v1?label=Python&logo=Python&logoColor=eeeeee&message=familiar&color=yellowgreen&style=for-the-badge)
 ![C (familiar)](https://img.shields.io/static/v1?label=C&logo=C&logoColor=eeeeee&message=familiar&color=yellowgreen&style=for-the-badge)
+![Erlang (familiar)](https://img.shields.io/static/v1?label=Erlang&logo=Erlag&logoColor=eeeeee&message=familiar&color=yellowgreen&style=for-the-badge)
+![Rust (basic)](https://img.shields.io/static/v1?label=Rust&logo=Rust&logoColor=eeeeee&message=basic&color=yellow&style=for-the-badge)
 
 **Programming Experience**
 Some notable group projects I had the pleasure of working on:
