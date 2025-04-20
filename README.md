@@ -2,16 +2,16 @@
 
 **Who am I?**
 
-Currenly studying at KTH for Software Engineering of Distributed Systems MSc. after completeing my Bachelor's at University of Gothenburg for Software Engineering and Management. Currently employed as a Wizard Apprentice for AI Sweden (soon to be Junior AI Technician) 🤯💥 <br><br>
+Currenly studying at KTH for Software Engineering of Distributed Systems MSc. after completeing my Bachelor's at University of Gothenburg for Software Engineering and Management. Currently employed as a Junior Systems Engineer for AI Sweden🤯💥 <br><br>
 **Programming Experience**
 
 ![Java (intermediate)](https://img.shields.io/static/v1?label=Java&logo=Java&logoColor=eeeeee&message=intermediate&color=green&style=for-the-badge)
 ![JavaScript (intermediate)](https://img.shields.io/static/v1?label=JavaScript&logo=JavaScript&logoColor=eeeeee&message=intermediate&color=green&style=for-the-badge)
 ![HTML/CSS (intermediate)](https://img.shields.io/static/v1?label=HTML%2fCSS&logo=HTML5&logoColor=eeeeee&message=intermediate&color=green&style=for-the-badge)
+![Rust (intermediate)](https://img.shields.io/static/v1?label=Rust&logo=Rust&logoColor=eeeeee&message=basic&color=yellow&style=for-the-badge)
 ![Python (familiar)](https://img.shields.io/static/v1?label=Python&logo=Python&logoColor=eeeeee&message=familiar&color=yellowgreen&style=for-the-badge)
 ![C (familiar)](https://img.shields.io/static/v1?label=C&logo=C&logoColor=eeeeee&message=familiar&color=yellowgreen&style=for-the-badge)
 ![Erlang (familiar)](https://img.shields.io/static/v1?label=Erlang&logo=Erlag&logoColor=eeeeee&message=familiar&color=yellowgreen&style=for-the-badge)
-![Rust (basic)](https://img.shields.io/static/v1?label=Rust&logo=Rust&logoColor=eeeeee&message=basic&color=yellow&style=for-the-badge)
 
 **Programming Experience**
 Some notable group projects I had the pleasure of working on:
@@ -28,6 +28,7 @@ Some notable group projects I had the pleasure of working on:
 🤷‍♂️ Into all types of music, especially Rap and Metal<br>
 
 [LinkedIn](https://www.linkedin.com/in/georg-zsolnai-b662a6241/) <br>
+[dotfiles](https://github.com/GeorgZs/dotfiles) <br>
 *_consider checking out my friend: [Lance](https://github.com/Lancear)_*<br>
 
 <!--
