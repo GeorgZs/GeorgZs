@@ -15,6 +15,7 @@ Currenly studying at KTH for Software Engineering of Distributed Systems MSc. af
 
 **Programming Experience**
 Some notable group projects I had the pleasure of working on:
+- *NEW* [Distributed SQL Database utilizing OmniPaxos and Sharding](https://github.com/GeorgZs/ID2203-GOD-Project)
 - [Web Development Universal Booking Website](https://github.com/GeorgZs/WebDev2022)
 - [Driving License Learner's App with Functioning Emulator](https://github.com/GeorgZs/DIT113-CarCrashCourse)
 - [Dentist Website utilizing Distributed Components](https://github.com/Distributed-Systems2022)
